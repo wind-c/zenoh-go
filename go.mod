@@ -1,3 +1,3 @@
 module github.com/wind-c/zenoh-go
 
-go 1.21
+go 1.24

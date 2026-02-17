@@ -1,0 +1,30 @@
+# Binaries
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Test files (optional - keep if you want to ignore test binaries)
+_test\.go$
+
+# Vendor directory (if using vendoring)
+vendor/
+
+# Build artifacts
+*.zip
+*.tar.gz
+*.tar
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*~
+*.bak

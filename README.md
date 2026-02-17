@@ -115,7 +115,7 @@ zenoh-go/
 │       └── libzenohc.dylib      # Shared library
 ├── bin/                         # Compiled binaries
 ├── go.mod                       # Go module definition
-├── README.md                    # This file
+├── README.md                    # Readme file
 └── LICENSE                      # Apache 2.0 License
 ```
 
